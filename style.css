@@ -1,0 +1,280 @@
+.first{
+    width: 1473px;
+    
+}
+
+.jumbotron {
+    padding: 3rem;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 30px;
+    background-color: #DEDEDE;
+
+}
+
+.btn-group h6 {
+    font-family: 'Jost', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #707070;
+
+}
+
+.small {
+    font-family: Jost;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+
+}
+
+.btn-group h4 {
+    font-family: 'Jost', sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.card {
+    width: 383px;
+    height: 643px;
+
+    border-radius: 30px;
+    gap: 10px;
+
+}
+
+.card-text {
+    font-family: 'Jost', sans-serif;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #333333;
+
+}
+
+.path {
+    width: 89px;
+    height: 89px;
+    top: 387px;
+    left: 1393px;
+
+}
+
+.card img {
+    width: 382px;
+    height: 427px;
+    border-radius: 30px;
+
+}
+
+.jumbotron h2 {
+    text-align: left;
+    size: 10px;
+    color: #000000;
+
+}
+
+.card-text p {
+    background: #773737;
+
+}
+
+.h1 {
+    font-family: 'Jost', sans-serif;
+    font-size: 35px;
+    line-height: 51px;
+    letter-spacing: 0em;
+    text-align: left;
+    background: #000000;
+
+
+}
+
+.img {
+    width: 1528px;
+    height: 389px;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.blog-footer {
+
+    font-size: 15px;
+    border-top: 0.5px solid #737373;
+    font: Jost;
+    color: #101010;
+
+
+}
+
+.blog-footer p {
+    margin-top: 30px;
+}
+
+.first {
+    background-color: #DEDEDE;
+    color: #000000;
+}
+
+.blog-footer {
+    background-color: #DEDEDE;
+    color: #000000;
+}
+
+.row {
+    background-color: #DEDEDE;
+    margin-bottom: 30px;
+    color: #000000;
+    font-size: 20px;
+}
+
+.row a {
+    color: #000000;
+}
+
+
+
+
+.image img {
+    padding: 3rem;
+    border-radius: 7.25rem;
+    background-color: #ffffff;
+}
+
+.image {
+    background-color: #ffffff;
+}
+
+.icon svg {
+    min-width: 60px;
+    margin-top: -47.75rem;
+    margin-left: 1250px;
+    background-color: #DEDEDE;
+
+}
+
+.icon svg path {
+    margin-top: -24.75rem;
+}
+
+.one img {
+    width: 518px;
+    height: 602px;
+    margin-top: 60px;
+    margin-left: 120px;
+    margin-bottom: 60px;
+    border-radius: 20px;
+    padding: 0.1px;
+    background-color: #ffffff;
+}
+
+.featurette-heading {
+    font-family: 'Outfit', sans-serif;
+    font-size: 100px;
+    font-weight: 400;
+    line-height: 126px;
+    align-items: center;
+    text-align: center;
+    margin-top: 100px;
+    color: #000000;
+    ;
+}
+
+.lead {
+    margin-top: 30px;
+    margin-left: 150px;
+    font-family: 'Jost', 100;
+    letter-spacing: 1px;
+    font-size: 30px;
+    color: #000000;
+
+}
+
+.button {
+    font-family: 'Jost', sans-serif;
+    width: 271px;
+    height: 77px;
+    margin-left: 130px;
+    margin-top: 20px;
+
+
+}
+
+.carousel-inner {
+    padding: 4rem;
+    margin-top: 0px;
+    margin-left: 0px;
+    background-color: #ffffff;
+
+
+}
+
+.carousel-item {
+    padding: 0rem;
+    border-radius: 30px;
+
+}
+
+.carousel-item img {
+
+    border-radius: 7.25rem;
+    /* margin-left: 50px; */
+    /* margin-right: 50px; */
+    background-color: #ffffff;
+}
+
+.navbar-brand {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 40px;
+    color: #000000;
+    align-items: center;
+
+}
+
+.navbar {
+    background-color: #DEDEDE;
+    margin: -7px;
+    margin-left: 10px;
+}
+
+.btn-sm {
+    width: 100px;
+    height: 45px;
+    background-color: #DEDEDE;
+    margin-left: 910px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+
+.input-group-prepend {
+    background-color: #ffffff
+}
+@media only screen and (min-width: 200px) and (max-width: 567px) {
+
+    .body {
+        margin: -7px;
+        width: 412px;
+        height: 720px;
+    
+    }
+    
+    
+    
+  }
